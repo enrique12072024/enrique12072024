@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Sistemas en desarrollo: ventas, operaciones, comunidad y crecimiento digital">
+<style>
+.bg{fill:#0b0b0e}.grid{stroke:#17181d;stroke-width:1}.line{fill:none;stroke:#34353c;stroke-width:2}.pulse{fill:none;stroke:#b63245;stroke-width:3;stroke-linecap:round;stroke-dasharray:80 620}.node{fill:#15161b;stroke:#b63245}.on{fill:#b63245}.title{fill:#f6f5f2;font:700 29px 'Segoe UI',Arial,sans-serif}.sub{fill:#9b9ba2;font:400 15px 'Segoe UI',Arial,sans-serif}.mono{fill:#b63245;font:600 11px monospace;letter-spacing:1.8px}.label{fill:#deddda;font:600 15px monospace;letter-spacing:1px}
+</style>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path class="grid" d="M32 0H0V32"/></pattern>
+<rect class="bg" width="800" height="360" rx="20"/><rect width="800" height="360" rx="20" fill="url(#g)"/>
+<text class="mono" x="32" y="35">PRIVATE SYSTEMS / SIGNALS DETECTED</text>
+<text class="title" x="32" y="82">CUATRO RETOS. UN MISMO OBJETIVO.</text>
+<text class="sub" x="32" y="108">Convertir complejidad operativa en una experiencia simple.</text>
+<path class="line" d="M90 210H710"/><path class="pulse" d="M90 210H710"><animate attributeName="stroke-dashoffset" values="700;0" dur="4s" repeatCount="indefinite"/></path>
+<g><circle class="node" cx="110" cy="210" r="20"/><circle class="on" cx="110" cy="210" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle><text class="label" x="110" y="260" text-anchor="middle">QUOTE.OS</text><text class="sub" x="110" y="284" text-anchor="middle">propuestas</text></g>
+<g><circle class="node" cx="305" cy="210" r="20"/><circle class="on" cx="305" cy="210" r="5"><animate attributeName="opacity" values=".25;1;.25" begin=".5s" dur="2s" repeatCount="indefinite"/></circle><text class="label" x="305" y="260" text-anchor="middle">ASSET.CORE</text><text class="sub" x="305" y="284" text-anchor="middle">operaciones</text></g>
+<g><circle class="node" cx="500" cy="210" r="20"/><circle class="on" cx="500" cy="210" r="5"><animate attributeName="opacity" values=".25;1;.25" begin="1s" dur="2s" repeatCount="indefinite"/></circle><text class="label" x="500" y="260" text-anchor="middle">HUMAN.NODE</text><text class="sub" x="500" y="284" text-anchor="middle">comunidad</text></g>
+<g><circle class="node" cx="690" cy="210" r="20"/><circle class="on" cx="690" cy="210" r="5"><animate attributeName="opacity" values=".25;1;.25" begin="1.5s" dur="2s" repeatCount="indefinite"/></circle><text class="label" x="690" y="260" text-anchor="middle">GROWTH.LINK</text><text class="sub" x="690" y="284" text-anchor="middle">presencia</text></g>
+<text class="mono" x="32" y="333">STATUS: BUILDING THE NEXT VERSION_</text>
+</svg>
