@@ -1,0 +1,13 @@
+<svg width="900" height="74" viewBox="0 0 900 74" xmlns="http://www.w3.org/2000/svg">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#F6F5F2;text-anchor:middle}
+.l1{animation:a 9s infinite}.l2{animation:b 9s infinite}.l3{animation:c 9s infinite}
+.cursor{animation:blink 1s step-end infinite}
+@keyframes a{0%,28%{opacity:1}33%,95%{opacity:0}100%{opacity:1}}@keyframes b{0%,28%,66%,100%{opacity:0}33%,61%{opacity:1}}@keyframes c{0%,61%,100%{opacity:0}66%,95%{opacity:1}}@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="900" height="74" rx="18" fill="#0D0D0F"/><rect x="1" y="1" width="898" height="72" rx="17" fill="none" stroke="#B63245" stroke-opacity=".45"/>
+<circle cx="28" cy="23" r="5" fill="#B63245"/><circle cx="47" cy="23" r="5" fill="#8F8A84"/><circle cx="66" cy="23" r="5" fill="#F6F5F2" fill-opacity=".65"/>
+<text class="l1" x="450" y="47">AI Solutions Developer <tspan fill="#B63245">_</tspan></text>
+<text class="l2" x="450" y="47">Premium Web Experience Builder <tspan fill="#B63245">_</tspan></text>
+<text class="l3" x="450" y="47">Business Automation Engineer <tspan fill="#B63245">_</tspan></text>
+</svg>
