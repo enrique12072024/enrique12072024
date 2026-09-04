@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" role="img" aria-label="Capacidades: inteligencia aplicada, web premium y automatización">
+<style>
+.bg{fill:#0b0b0e}.card{fill:#111217;stroke:#292a30}.track{stroke:#292a30;stroke-width:2}.active{stroke:#b63245;stroke-width:3}.dot{fill:#b63245}.title{fill:#f6f5f2;font:700 24px 'Segoe UI',Arial,sans-serif}.desc{fill:#a9a8ad;font:400 15px 'Segoe UI',Arial,sans-serif}.tag{fill:#b63245;font:600 11px monospace;letter-spacing:1.5px}.num{fill:#55565e;font:700 36px monospace}
+</style>
+<rect class="bg" width="800" height="350" rx="20"/>
+<text class="tag" x="32" y="35">CAPABILITIES / LIVE</text>
+<line class="track" x1="32" y1="55" x2="768" y2="55"/><line class="active" x1="32" y1="55" x2="200" y2="55"><animate attributeName="x2" values="32;768;32" dur="7s" repeatCount="indefinite"/></line>
+<g transform="translate(32 78)"><rect class="card" width="736" height="72" rx="13"/><text class="num" x="20" y="48">01</text><circle class="dot" cx="84" cy="35" r="5"><animate attributeName="r" values="4;8;4" dur="2.2s" repeatCount="indefinite"/></circle><text class="title" x="108" y="31">INTELIGENCIA APLICADA</text><text class="desc" x="108" y="54">Decisiones más rápidas. Productos que entienden el contexto.</text></g>
+<g transform="translate(32 164)"><rect class="card" width="736" height="72" rx="13"/><text class="num" x="20" y="48">02</text><circle class="dot" cx="84" cy="35" r="5"><animate attributeName="r" values="4;8;4" begin=".7s" dur="2.2s" repeatCount="indefinite"/></circle><text class="title" x="108" y="31">EXPERIENCIAS WEB PREMIUM</text><text class="desc" x="108" y="54">Velocidad, claridad y una presencia digital imposible de ignorar.</text></g>
+<g transform="translate(32 250)"><rect class="card" width="736" height="72" rx="13"/><text class="num" x="20" y="48">03</text><circle class="dot" cx="84" cy="35" r="5"><animate attributeName="r" values="4;8;4" begin="1.4s" dur="2.2s" repeatCount="indefinite"/></circle><text class="title" x="108" y="31">AUTOMATIZACIÓN EMPRESARIAL</text><text class="desc" x="108" y="54">Menos repetición. Menos errores. Más tiempo para avanzar.</text></g>
+</svg>
