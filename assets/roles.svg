@@ -1,13 +1,25 @@
-<svg width="900" height="74" viewBox="0 0 900 74" xmlns="http://www.w3.org/2000/svg">
-<style>
-text{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#F6F5F2;text-anchor:middle}
-.l1{animation:a 9s infinite}.l2{animation:b 9s infinite}.l3{animation:c 9s infinite}
-.cursor{animation:blink 1s step-end infinite}
-@keyframes a{0%,28%{opacity:1}33%,95%{opacity:0}100%{opacity:1}}@keyframes b{0%,28%,66%,100%{opacity:0}33%,61%{opacity:1}}@keyframes c{0%,61%,100%{opacity:0}66%,95%{opacity:1}}@keyframes blink{50%{opacity:0}}
-</style>
-<rect width="900" height="74" rx="18" fill="#0D0D0F"/><rect x="1" y="1" width="898" height="72" rx="17" fill="none" stroke="#B63245" stroke-opacity=".45"/>
-<circle cx="28" cy="23" r="5" fill="#B63245"/><circle cx="47" cy="23" r="5" fill="#8F8A84"/><circle cx="66" cy="23" r="5" fill="#F6F5F2" fill-opacity=".65"/>
-<text class="l1" x="450" y="47">AI Solutions Developer <tspan fill="#B63245">_</tspan></text>
-<text class="l2" x="450" y="47">Premium Web Experience Builder <tspan fill="#B63245">_</tspan></text>
-<text class="l3" x="450" y="47">Business Automation Engineer <tspan fill="#B63245">_</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="74" viewBox="0 0 1000 74" role="img" aria-label="IA, web premium y automatización">
+  <style>
+    .bg{fill:#0d0d0f;stroke:#b63245;stroke-width:1}
+    .txt{font:700 25px 'Segoe UI',Arial,sans-serif;fill:#f6f5f2;letter-spacing:2px;text-anchor:middle}
+    .accent{fill:#b63245}
+    .line{stroke:#b63245;stroke-width:2}
+    @media (prefers-reduced-motion:reduce){animate{display:none}}
+  </style>
+  <rect class="bg" x="1" y="1" width="998" height="72" rx="16"/>
+  <line class="line" x1="35" y1="37" x2="115" y2="37"/>
+  <circle class="accent" cx="130" cy="37" r="5"/>
+  <line class="line" x1="885" y1="37" x2="965" y2="37"/>
+  <circle class="accent" cx="870" cy="37" r="5"/>
+  <g>
+    <text class="txt" x="500" y="46">IA QUE IMPULSA NEGOCIOS
+      <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.25;0.32;0.92;0.94;0.98;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text class="txt" x="500" y="46" opacity="0">WEB PREMIUM QUE CONVIERTE
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.36;0.58;0.66;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text class="txt" x="500" y="46" opacity="0">AUTOMATIZACIÓN QUE AHORRA TIEMPO
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.64;0.70;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
 </svg>
