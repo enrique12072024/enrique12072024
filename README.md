@@ -3,15 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="mailto:corporationgdm@gmail.com"><img src="https://img.shields.io/badge/CONTACT-181414?style=for-the-badge&logo=gmail&logoColor=F6F5F2" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=enrique12072024&style=for-the-badge&color=8B1E2D&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="./assets/roles.svg" alt="AI Solutions Developer · Premium Web Experience Builder · Business Automation Engineer" width="82%" />
 </p>
 
-## Intelligent digital systems, built with purpose.
+<p align="center">
+  <a href="mailto:corporationgdm@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-181414?style=for-the-badge&logo=gmail&logoColor=F6F5F2" alt="Contact Enrique" /></a>
+  <img src="https://img.shields.io/badge/AVAILABLE_FOR-AI_%26_WEB_PROJECTS-B63245?style=for-the-badge" alt="Available for AI and web projects" />
+  <img src="https://komarev.com/ghpvc/?username=enrique12072024&style=for-the-badge&color=181414&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-I build **AI-assisted products, premium web experiences, and business automations** that turn manual processes into reliable digital systems.
+<h2 align="center">I don't just build websites. I build intelligent digital systems.</h2>
 
-My work connects product thinking, practical engineering, and automation: from responsive business websites to internal platforms, quotation workflows, inventory systems, and AI-enhanced experiences.
+<p align="center">
+  AI-assisted products, premium web experiences, and business automations<br/>
+  designed to reduce friction, improve operations, and create measurable value.
+</p>
 
 ```text
 FOCUS     AI Solutions · Web Engineering · Business Automation
