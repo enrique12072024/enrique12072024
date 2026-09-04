@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" role="img" aria-label="No creo páginas comunes. Diseño sistemas que trabajan por ti.">
+<style>
+.bg{fill:#0b0b0e}.frame{fill:none;stroke:#2b2c32}.red{fill:#b63245}.muted{fill:#8d8d96}.main{fill:#f6f5f2;font:700 33px 'Segoe UI',Arial,sans-serif;letter-spacing:.6px}.sub{fill:#aaa8a5;font:400 17px 'Segoe UI',Arial,sans-serif}.mono{fill:#b63245;font:600 12px monospace;letter-spacing:2px}.cursor{fill:#b63245}
+.scan{fill:url(#scan);opacity:.55}
+</style>
+<defs><linearGradient id="scan" x1="0" x2="1"><stop stop-color="#b63245" stop-opacity="0"/><stop offset=".5" stop-color="#b63245" stop-opacity=".24"/><stop offset="1" stop-color="#b63245" stop-opacity="0"/></linearGradient></defs>
+<rect class="bg" width="800" height="250" rx="20"/><rect class="frame" x="1" y="1" width="798" height="248" rx="19"/>
+<circle class="red" cx="30" cy="27" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+<text class="mono" x="44" y="32">SYSTEM / ONLINE</text><text class="muted" x="742" y="32" font-family="monospace" font-size="11">01</text>
+<g>
+ <text class="main" x="55" y="105">NO CREO PÁGINAS COMUNES.</text>
+ <rect class="bg" x="50" y="76" width="700" height="40"><animate attributeName="x" values="50;750;750" keyTimes="0;.45;1" dur="5.5s" repeatCount="indefinite"/></rect>
+</g>
+<g>
+ <text class="main" x="55" y="151">DISEÑO SISTEMAS QUE TRABAJAN</text>
+ <text class="main red" x="55" y="191">POR TI.</text>
+ <rect class="bg" x="50" y="122" width="700" height="80"><animate attributeName="x" values="50;50;750;750" keyTimes="0;.35;.8;1" dur="5.5s" repeatCount="indefinite"/></rect>
+</g>
+<rect class="cursor" x="55" y="211" width="78" height="3"><animate attributeName="width" values="0;78;20;78" dur="2.8s" repeatCount="indefinite"/></rect>
+<rect class="scan" x="-260" y="0" width="260" height="250"><animate attributeName="x" values="-260;900" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
