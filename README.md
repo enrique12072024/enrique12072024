@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:corporationgdm@gmail.com"><img src="https://img.shields.io/badge/HABLEMOS-181414?style=for-the-badge&logo=gmail&logoColor=F6F5F2" alt="Contactar a Enrique" /></a>
+  <img src="https://img.shields.io/badge/CREANDO-SISTEMAS_INTELIGENTES-181414?style=for-the-badge&logo=github&logoColor=F6F5F2" alt="Creando sistemas inteligentes" />
   <img src="https://img.shields.io/badge/DISPONIBLE-PARA_NUEVOS_PROYECTOS-B63245?style=for-the-badge" alt="Disponible para nuevos proyectos" />
   <img src="https://komarev.com/ghpvc/?username=enrique12072024&style=for-the-badge&color=181414&label=VISITAS" alt="Visitas al perfil" />
 </p>
@@ -58,6 +58,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:corporationgdm@gmail.com"><img src="https://img.shields.io/badge/INICIAR_UN_PROYECTO-B63245?style=for-the-badge&logo=gmail&logoColor=white" alt="Iniciar un proyecto" /></a><br/><br/>
-  Lima, Perú · <a href="mailto:corporationgdm@gmail.com">corporationgdm@gmail.com</a>
+  <img src="https://img.shields.io/badge/CONSTRUYENDO-DESDE_LIMA,_PERÚ-181414?style=for-the-badge&logo=github&logoColor=F6F5F2" alt="Construyendo desde Lima, Perú" />
 </p>
